@@ -1,0 +1,16 @@
+{
+  "appId": "com.orthoaidpro.app",
+  "appName": "Ortho Aid Pro",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": "release-key.keystore",
+      "keystoreAlias": "key0",
+      "keystorePassword": "orthoaid",
+      "keystoreAliasPassword": "orthoaid"
+    }
+  }
+}
